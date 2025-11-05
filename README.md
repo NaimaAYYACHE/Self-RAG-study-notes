@@ -16,7 +16,7 @@ It combines **reasoning** 🧠, **retrieval** 📚, and **self-reflection** 🪞
 1. The model decides **when to retrieve information** 📌  
 2. It retrieves and evaluates **relevance** [ISREL] ✅, **support** [ISSUP] 📖, and **usefulness** [ISUSE] ⭐  
 3. The model **self-critiques** its output ✨ and selects the best answer  
-![agentic_crag](https://github.com/user-attachments/assets/72e1f7a8-6fe7-4129-8742-ee40bbbd1ef9)
+![Design sans titre](https://github.com/user-attachments/assets/933b5e0a-ad8b-4ac1-ba6b-b60df72aa2d8)
 ---
 
 
