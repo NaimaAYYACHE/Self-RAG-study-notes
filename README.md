@@ -1,55 +1,56 @@
-# **🤖 SELF-RAG Study Repository**
+# 🤖 SELF-RAG Study Notes
 
-## **✨ What is SELF-RAG?**
+## 🌟 What is SELF-RAG?
 
-**SELF-RAG** = *Self-Reflective Retrieval-Augmented Generation*
+**SELF-RAG (Self-Reflective Retrieval-Augmented Generation)** is an advanced framework for Large Language Models (LLMs) that:  
 
-A next-level LLM framework that:
+- **Generates text** ✍️  
+- **Retrieves relevant facts** 🔍  
+- **Reflects on its own output** 💭  
 
-* 🔍 **Retrieves** info on-demand from external sources
-* 🧠 **Thinks & Reasons** like a language model
-* 💭 **Self-Reflects** using special tokens to check support, relevance, and usefulness
-* ✍️ **Generates** high-quality, factual, and controllable outputs
+- **Evaluates quality and usefulness** ✅  
 
-**In short:**
+It combines **reasoning** 🧠, **retrieval** 📚, and **self-reflection** 🪞 to produce **high-quality, evidence-backed answers**.  
 
-> *It retrieves when necessary, reflects while writing, and critiques itself to improve accuracy.*
+**How it works**:  
+1. The model decides **when to retrieve information** 📌  
+2. It retrieves and evaluates **relevance** [ISREL] ✅, **support** [ISSUP] 📖, and **usefulness** [ISUSE] ⭐  
+3. The model **self-critiques** its output ✨ and selects the best answer  
+![agentic_crag](https://github.com/user-attachments/assets/72e1f7a8-6fe7-4129-8742-ee40bbbd1ef9)
+---
+
+
+## 📚 Repository Structure
+
+This repository contains notes, reports, and examples based on the **SELF-RAG research paper**.  
+<img width="461" height="443" alt="Capture d’écran 2025-11-05 130453" src="https://github.com/user-attachments/assets/91b6ce00-059a-4542-8451-3016dc1a75e8" />
+### 📝 Notes
+| File | Description |
+| --- | --- |
+| [Self RAG Overview](notes/1.%20Self%20RAG%20overview.md) | Overview of SELF-RAG framework and concepts |
+| [Architecture Schema Self RAG](notes/2.%20Architecture%20schema%20Self%20RAG%20.md) | Visual schema of SELF-RAG architecture |
+| [Reflection Tokens](notes/3.%20Reflection%20tokens.md) | Explanation of `[RETRIEVE]`, `[ISREL]`, `[ISSUP]`, `[ISUSE]` tokens |
+| [Controllable Decoding in Self RAG](notes/4.%20Controllable%20Decoding%20in%20Self%20RAG%20.md) | How SELF-RAG controls output with reflection tokens |
+| [SELF-RAG: End-to-End Process](notes/5.%20SELF-RAG:%20End-to-End%20Process.md) | Step-by-step workflow from user query to final answer |
+
+### 📑 Reports
+| File | Description |
+| --- | --- |
+| [SELF-RAG Study Guide](reports/SELF%20RAG%20Study%20Guide.md) | Quiz, essay questions, and glossary for learning SELF-RAG |
+| [Self RAG Report](reports/Self%20RAG%20report%20.md) | Full briefing and technical analysis from the research paper |
 
 ---
 
-## **📚 What’s Inside This Repo?**
+## 🖼️ Visual Aids
 
-Based on a **research paper**, this repository is organized into **notes** and **reports** to help you study SELF-RAG:
+- **Architecture Schema:**  
+<img width="8948" height="4734" alt="teaser_self_rag_v8" src="https://github.com/user-attachments/assets/3fa7f7d2-9041-417a-a4e0-8c844603b7c6" />
 
-### **🗂 Notes**
+- **Mind Map of SELF-RAG Concepts:**  
 
-* [Self RAG Overview.md](notes/Self%20RAG%20overview.md) – Intro and core ideas
-* [Self RAG Overview.md](notes/1.%20Self%20RAG%20overview.md)
-* [Architecture Schema Self RAG.md](notes/Architecture%20schema%20Self%20RAG%20.md) – Diagrams of the workflow
-* [Reflection Tokens.md](notes/Reflection%20tokens.md) – All reflection and critique tokens explained
-* [Controllable Decoding in Self RAG.md](notes/Controllable%20Decoding%20in%20Self%20RAG%20.md) – How SELF-RAG controls generation
-* [SELF-RAG: End-to-End Process.md](notes/SELF-RAG%20End-to-End%20Process.md) – Step-by-step query to output
-[Link Text](relative-or-absolute-URL)
+<img width="6706" height="10736" alt="NotebookLM Mind Map (2)" src="https://github.com/user-attachments/assets/8ea72d17-8faf-4a11-8fa4-c66ee1a6d27c" />
 
-### **🗂 Reports**
-
-* [Self RAG Report.md](reports/Self%20RAG%20report%20.md) – Full analysis and summary
-* [SELF-RAG Study Guide.md](reports/SELF-RAG%20Study%20Guide.md) – Quiz, glossary, and exercises
 
 ---
 
-## **🎯 How This Repo Helps**
-
-* Quick access to **key concepts** ✅
-* Step-by-step **architecture and process** guides 🏗️
-* Ready-to-use **study and practice materials** 📖
-* References and links to **individual files** for fast navigation 🔗
-* [Reflection Tokens](notes/Reflection%20tokens.md)
-* [End-to-End Process](notes/SELF-RAG%20End-to-End%20Process.md)
-
----
-
-✅ **Pro Tip:** You can link directly to Markdown files in GitHub by using relative paths like `[File Name](folder/File%20Name.md)` — spaces must be `%20`.
-[Self RAG Overview](notes/Self%20RAG%20overview.md)
-
-Do you want me to do that?
+This repository is intended as a **learning and reference guide** for SELF-RAG based on the official research paper.
