@@ -174,6 +174,20 @@ the World Cup semifinals. [ISREL=1] ✅ [ISSUP=1] 📖 [ISUSE=5] ⭐
 | **Key actions** | Decide retrieval 🕵️‍♂️, judge relevance 📄, refine output 🏆 | Label relevance ✅, support 📖, usefulness ⭐ |
 
 ---
+# **🎓  How SELF-RAG Learns**
+
+SELF-RAG training happens in **two main phases:**
+
+## **1️⃣ Offline Annotation (Critic Model C)**
+
+- Uses a powerful LLM (like GPT-4) to insert reflection tokens into training data.
+- The Critic model learns to predict those tokens automatically.
+
+## **2️⃣ Joint Training (Generator Model M)**
+
+- The Generator learns both *what to write* and *when to reflect*.
+- No need for reinforcement learning or reward models like RLHF — cheaper and more stable 💰.
+---
 
 <aside>
 ✅
