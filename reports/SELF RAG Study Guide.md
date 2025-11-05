@@ -2,6 +2,8 @@
 ## **Overview**
 
 This guide provides a comprehensive review of the *Self-Reflective Retrieval-Augmented Generation (SELF-RAG)* framework, based on the original research paper.
+<img width="6706" height="10736" alt="NotebookLM Mind Map (2)" src="https://github.com/user-attachments/assets/691e2ce6-c523-4905-afad-e20d339afbd5" />
+
 It includes a **short-answer quiz**, an **answer key**, **essay questions**, and a **detailed glossary** of key terms to test and deepen understanding of the material.
 
 ---
