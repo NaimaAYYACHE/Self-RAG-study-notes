@@ -24,6 +24,7 @@ Based on a **research paper**, this repository is organized into **notes** and *
 ### **🗂 Notes**
 
 * [Self RAG Overview.md](notes/Self%20RAG%20overview.md) – Intro and core ideas
+* [Self RAG Overview](notes/1. Self RAG overview.md)
 * [Architecture Schema Self RAG.md](notes/Architecture%20schema%20Self%20RAG%20.md) – Diagrams of the workflow
 * [Reflection Tokens.md](notes/Reflection%20tokens.md) – All reflection and critique tokens explained
 * [Controllable Decoding in Self RAG.md](notes/Controllable%20Decoding%20in%20Self%20RAG%20.md) – How SELF-RAG controls generation
