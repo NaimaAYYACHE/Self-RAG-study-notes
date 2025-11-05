@@ -49,5 +49,6 @@ Based on a **research paper**, this repository is organized into **notes** and *
 ---
 
 ✅ **Pro Tip:** You can link directly to Markdown files in GitHub by using relative paths like `[File Name](folder/File%20Name.md)` — spaces must be `%20`.
+[Self RAG Overview](notes/Self%20RAG%20overview.md)
 
 Do you want me to do that?
