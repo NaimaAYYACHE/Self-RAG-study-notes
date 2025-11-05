@@ -36,7 +36,7 @@ The paper explains you can “**trade off fluency vs support**” — meaning yo
 
 ---
 
-# **📈 Part 7 — Results & Impact**
+# **📈  Results & Impact**
 
 They **trained and evaluated Self-RAG on both 7B and 13B models** 
 
