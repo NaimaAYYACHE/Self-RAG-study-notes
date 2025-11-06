@@ -595,7 +595,7 @@ To help you **memorize, practice, and test** the concepts, use these Quizlet lin
 🔗 **References:**
 - [Official Self-RAG GitHub](https://github.com/AkariAsai/self-rag?tab=readme-ov-file)  
 - [Medium Summary](https://cobusgreyling.medium.com/self-reflective-retrieval-augmented-generation-self-rag-f5cbad4412d5)  
-- [Notion Report](https://www.notion.so/Report-on-Self-RAG-Paper-2a38343843d880309e49d71d6236e4d6?pvs=21)
+- [Notion Report](https://www.notion.so/SELF-RAG-Self-Reflective-Retrieval-Augmented-Generation-29f8343843d880a29b8ef54049665988?source=copy_link)
 ---
 
 This repository is intended as a **learning and reference guide** for SELF-RAG based on the official research paper.
