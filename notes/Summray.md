@@ -81,11 +81,45 @@
 
 > Based on the research paper by Akari Asai et al.  
 > Links to key references and papers are included for deeper reading:  
-> - [SELF-RAG Paper](https://arxiv.org/abs/2310.11511)  
-> - [GitHub Repo](https://github.com/AkariAsai/self-rag)  
-> - [Medium Briefing](https://cobusgreyling.medium.com/self-reflective-retrieval-augmented-generation-self-rag-f5cbad4412d5)
+
+🔗 **References:**
+- [Official Self-RAG GitHub](https://github.com/AkariAsai/self-rag?tab=readme-ov-file)  
+- [Medium Summary](https://cobusgreyling.medium.com/self-reflective-retrieval-augmented-generation-self-rag-f5cbad4412d5)  
+- [Notion Report](https://www.notion.so/SELF-RAG-Self-Reflective-Retrieval-Augmented-Generation-29f8343843d880a29b8ef54049665988?source=copy_link)
+- [SELF-RAG Paper](https://arxiv.org/abs/2310.11511)  
+---
+
+**💡 Takeaway:**
+
+SELF-RAG combines **adaptive retrieval** + **self-reflection** to produce **more factual, efficient, and transparent outputs** than standard RAG or even larger LLMs.
 
 ---
 
-**💡 Takeaway:**  
-SELF-RAG = **adaptive retrieval + generation + self-reflection** → more **factual, transparent, and controllable** LLM outputs 🚀🧠
+### 📑 Reports
+| File | Description |
+| --- | --- |
+| [SELF-RAG Study Guide](reports/SELF%20RAG%20Study%20Guide.md) | Quiz, essay questions, and glossary for learning SELF-RAG |
+| [Self RAG Report](reports/Self%20RAG%20report%20.md) | Full briefing and technical analysis from the research paper |
+
+
+---
+
+# 📝 **Flashcards & Learning Tools**
+
+To help you **memorize, practice, and test** the concepts, use these Quizlet links:
+
+- 📇 **Cards:**  
+  - https://quizlet.com/1104301639/flashcards/embed  
+  - https://quizlet.com/1104347417/flashcards/embed  
+
+- 📚 **Learn Mode:** [Practice & Learn](https://quizlet.com/1104347417/learn?funnelUUID=ab2047d9-3505-4ed4-af6f-9f2b84013ef3)  
+- 📝 **Test Yourself:** [Take a Test](https://quizlet.com/1104347417/test?answerTermSides=6&promptTermSides=6&questionCount=41&questionTypes=4&showImages=true)  
+- 🎮 **Play Games:**  
+  - ⚡ [Blast](https://quizlet.com/blast/1104347417)  
+  - 🏁 [Match](https://quizlet.com/1104347417/match?funnelUUID=684860c6-67ab-4aa1-b842-8fbde9549d62)  
+
+💡 **Tip:** Review regularly, self-test, and make learning interactive & fun 🎉  
+
+---
+
+This repository is intended as a **learning and reference guide** for SELF-RAG based on the official research paper.
