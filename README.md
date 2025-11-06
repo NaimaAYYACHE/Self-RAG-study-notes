@@ -267,6 +267,8 @@ They tell the model *how **confident, supported**, or **relevant*** its statemen
 | `[ISSUP]` | Is the statement **supported** by evidence ***( retrieved doc)***? ✅ | Marks whether the **generated answer**  matches **retrieved docs.** |
 | `[ISUSE]` | How **useful** the document is for answering ⭐ | Measures doc usefulness (e.g., 1–5 scale). |
 
+<img width="861" height="392" alt="Capture d’écran 2025-11-06 205703" src="https://github.com/user-attachments/assets/cfd0f1c1-81fc-49aa-bba1-162adc1ee913" />
+
 🔍 see more about  [Reflection Tokens](notes/3.%20Reflection%20tokens.md) you will find  Explanation of `[RETRIEVE]`, `[ISREL]`, `[ISSUP]`, `[ISUSE]` tokens 
 
 ---
