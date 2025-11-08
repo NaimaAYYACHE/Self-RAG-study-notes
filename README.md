@@ -543,7 +543,7 @@ The model combines its decisions and produces the **final factual answer**:
 
 ✅ This ensures the **final answer is grounded, clear, and trustworthy** before returning to the user.
 
-![What was Morocco’s biggest achievement in the 2022 World Cup” 🏆🇲🇦](https://github.com/user-attachments/assets/2f780ebf-c201-4dab-b4b0-9beafe31c1ad)
+![What was Morocco’s biggest achievement in the 2022 World Cup” 🏆🇲🇦 (1)](https://github.com/user-attachments/assets/128ae1e1-0189-4b80-a583-04d9f2a57745)
 
 
 ---
